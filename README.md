@@ -32,9 +32,9 @@ If we were trying to predict multiple values per district, it would be a multiva
 
 * A typical performance measure for regression problems is the Root Mean Square Error (RMSE). It gives an idea of how much error the system typically makes in its predictions, with a higher weight for large errors.
 
-`Insert 1st image`
+![RMSE](https://github.com/mukesh1996-ds/California-Housing-Prices-Prediction/blob/main/Images/1%20(RMSE).png)
 
 * Even though the RMSE is generally the preferred performance measure for regression tasks, in some contexts you may prefer to use another function. For example, suppose that there are many outlier districts. In that case, you may consider using the Mean Absolute Error (also called the Average Absolute Deviation
 
-`Insert 2nd Image`
+![MAE](https://github.com/mukesh1996-ds/California-Housing-Prices-Prediction/blob/main/Images/2%20(MAE).png)
 
